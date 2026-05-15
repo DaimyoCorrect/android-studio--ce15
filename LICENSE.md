@@ -1,4 +1,4 @@
-# 
+# new Android Studio for PC | Android Studio for Windows Snippet | Android-emulator + build-variants offers the most advanced Android Studio for PC | Android Studio for Windows
 
 
 
